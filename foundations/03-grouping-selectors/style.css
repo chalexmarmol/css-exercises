@@ -1,0 +1,28 @@
+.btn {
+  font-size: 1.75rem;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.btn:active {
+  transform: scale(0.9);
+}
+.black {
+  background-color: black;
+  color: white;
+}
+
+.black:hover {
+  background-color: white;
+  color: black;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.yellow:hover {
+  background-color: orange;
+  color: black;
+}

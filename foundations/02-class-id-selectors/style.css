@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.odd {
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+  background-color: lightpink;
+}
+.second {
+  color: blue;
+  font-size: 2.25rem;
+}
+
+.third, .fourth {
+  font-size: 1.5rem;
+}
+
+.fourth {
+  background-color: lightgreen;
+  font-weight: bold;
+}
